@@ -6,5 +6,5 @@ This case study analyzes data from a car rental company to derive insights into 
 | File | Description |
 |------|--------------|
 | `cars_on_rent_dashboard.xlsx` | Excel dashboard with charts, KPIs, and data |
-| `business_analyst_Questions.docx` | Contains case study questions for data analysis |
+| `business_analyst_Questions.pdf` | Contains case study questions for data analysis |
 | `Cars_on_Rent_Case_Study_Ayush.pptx` | PowerPoint presentation with insights and future predictions |
